@@ -22,7 +22,7 @@ const api = {
 $.ajax(api).done(function (response) {
     console.log(response);
 
-const button1= document.getElementById('quote').innerHTML = response;
+const api= document.getElementById('quote').innerHTML = response;
 
 });
 
