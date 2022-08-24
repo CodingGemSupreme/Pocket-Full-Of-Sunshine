@@ -1,5 +1,17 @@
 
-
+.sun {
+    background-color: azure;
+    height: 100vh;
+    width: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.background {
+height: 300px;
+width: 750px;
+background: url(Sunshine20%In20%My%Pocket20%Gif.gif);
+}
 h1 {
     text-align: center;
     font-family:Verdana, Geneva, Tahoma, sans-serif;
@@ -12,6 +24,10 @@ h2 {
 
 .quote-container {
     text-align: center;
+}
+.form {
+    align: center;
+
 }
 
 
