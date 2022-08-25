@@ -35,7 +35,8 @@ function ajaxpost () {
     fetch("index.html", { method:"POST", body:data })
     .then(res=>res.text())
    
-    // Show message when submit is clicked. Will show confirmation message. 
+    // Show message when submit is clicked. Will show confirmation message. This form isn't connected to server 
+    // yet but, I hope to connect it in the future. Will reflect else statement.
     .then((response) => {
       console.log(response);
       if (response == "OK") { alert("SUCCESSFUL!"); }
