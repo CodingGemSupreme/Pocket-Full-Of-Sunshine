@@ -18,12 +18,14 @@ h1 {
     text-align: center;
     font-family: Amilli;
     font-size: 60px;
+    position: relative;
 }
 
 h2 {
     height: relative;
     text-align: center;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
+    position: relative;
 }
 
 
@@ -39,6 +41,6 @@ h2 {
 img.page-bottom {
     width: 1250px;
     height: auto;
-    position: relative;
+    position:relative;
   }
 
