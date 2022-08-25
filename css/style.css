@@ -24,4 +24,9 @@ h2 {
 
 }
 
+img.page-bottom {
+    width: 1250px;
+    height: auto;
+    position: relative;
+  }
 
