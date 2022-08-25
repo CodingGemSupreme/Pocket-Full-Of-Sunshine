@@ -1,3 +1,9 @@
+body {
+    margin: 0, auto;
+    padding-left: 0, auto;
+    padding-right: 0, auto;
+    max-width: fit-content;
+}
 
 img.cloud-gif{
     width: 1250px;
@@ -8,13 +14,14 @@ img.cloud-gif{
     font-family: Amilli;
     src: url(/fonts/Amattera\ Million.ttf);
 }
-h6 {
+h1 {
     text-align: center;
     font-family: Amilli;
-    font-size: 40px;
+    font-size: 60px;
 }
 
 h2 {
+    height: relative;
     text-align: center;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
