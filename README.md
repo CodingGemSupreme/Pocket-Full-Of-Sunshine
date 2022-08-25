@@ -45,7 +45,7 @@ https://trello.com/invite/b/xzOZYV5B/c30e56ba903af50e9dc78f36af3c940c/web-design
 
 
 ## <a name="nextsteps"></a>Project Next Steps
-* users will be able to see trending inpirational videos and share them as well.
+* users will be able to see trending inspirational videos and share them as well.
 * users will also be able to use this app on mobile devices. 
 ## <a name="deployment"></a>Deployed Link
 https://jovial-shortbread-833faf.netlify.app/
