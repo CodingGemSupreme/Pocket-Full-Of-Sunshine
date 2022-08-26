@@ -9,7 +9,7 @@ Motivational Website
 
 ## Description
 "Sunshine In My Pocket" is a motivational quote app that provides the user with some positivty and
-the abillity to share. Our goal is to ultimatley increase the feel good hormones of the user by utlizing color psychology and quotes. I careated this app share some of the things that also helped me with trictillomania and depression in the past. 
+the abillity to share. My goal is to ultimatley increase the feel good hormones of the user by utlizing color psychology and quotes. I created this app to share some of the things that also helped me with trictillomania and depression in the past. 
 
 ## Table of Contents
 * Html, CSS, JQuery, JavaScript
