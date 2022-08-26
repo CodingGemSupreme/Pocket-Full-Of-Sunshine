@@ -2,7 +2,8 @@
 Motivational Website
 
 #### A feel good app for all!
-![Untitled (11 × 6 in)](https://user-images.githubusercontent.com/77770242/186916392-f7290bbe-4351-4ed8-a1e8-708991c2b4b1.gif)
+![Sunshine In My Pocket Gif (11 × 3 in)](https://user-images.githubusercontent.com/77770242/186935376-40fddc91-1c56-47cd-a7f8-3016263383a3.gif)
+
 
 
 
