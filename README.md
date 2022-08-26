@@ -1,22 +1,23 @@
-# Pocket-Full-Of-Sunshine
+# Sunshine In My Pocket 
 Motivational Website
 
 #### A feel good app for all!
-![Untitled (11 × 6 in)](https://user-images.githubusercontent.com/77770242/186916392-f7290bbe-4351-4ed8-a1e8-708991c2b4b1.gif)
+![Sunshine In My Pocket Gif (11 × 3 in)](https://user-images.githubusercontent.com/77770242/186935376-40fddc91-1c56-47cd-a7f8-3016263383a3.gif)
+
 
 
 
 ## Description
 "Sunshine In My Pocket" is a motivational quote app that provides the user with some positivty and
-the abillity to share. Our goal is to ultimatley increase the feel good hormones of the user by utlizing color psychology and quotes. I careated this app share some of the things that also helped me with trictillomania and depression in the past. 
+the abillity to share. My goal is to ultimatley increase the feel good hormones of the user by utlizing color psychology and quotes. I created this app to share some of the things that also helped me with trictillomania and depression in the past. 
 
 ## Table of Contents
-* Html, CSS, JQuery, JavaScript
-* [Features]Submittable Form With Response
+* [Technologies Used]
+* [Features]
 * [Design](#design)
-* [Project Next Steps]Add 
+* [Project Next Steps]
 * [Deployed App] 
-* [About the Author]Oma C. Withers
+* [About the Author]
 
 ## <a name="technologiesused"></a>Technologies Used
 * JavaScript
@@ -51,7 +52,7 @@ https://trello.com/invite/b/xzOZYV5B/c30e56ba903af50e9dc78f36af3c940c/web-design
 * users will also be able to use this app on mobile devices. 
 * users will also enjoy the utlization of a modal pop-up.
 * Add affiliate links for counseling, coaching, and other resources that can assist the user if they're expericncing depression or thoughts of sucide. 
-* Have section specifically reserved for guided journaling.
+* Have section specifically reserved for form based guided journaling.
 
 ## <a name="deployment"></a>Deployed Link
 Netlify:
