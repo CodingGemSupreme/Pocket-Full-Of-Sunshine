@@ -46,7 +46,7 @@ function ajaxpost () {
     // HANDLE FETCH ERROR
     .catch((err) => { console.error(err); });
    
-    // (C) PREVENT FORM SUBMIT
+    // PREVENT FORM SUBMIT
     return false;
   }
 
