@@ -12,12 +12,12 @@ Motivational Website
 the abillity to share. My goal is to ultimatley increase the feel good hormones of the user by utlizing color psychology and quotes. I created this app to share some of the things that also helped me with trictillomania and depression in the past. 
 
 ## Table of Contents
-* Html, CSS, JQuery, JavaScript
-* [Features]Submittable Form With Response
+* [Technologies Used]
+* [Features]
 * [Design](#design)
-* [Project Next Steps]Add 
+* [Project Next Steps]
 * [Deployed App] 
-* [About the Author]Oma C. Withers
+* [About the Author]
 
 ## <a name="technologiesused"></a>Technologies Used
 * JavaScript
