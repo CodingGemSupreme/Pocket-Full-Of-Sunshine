@@ -14,13 +14,14 @@ the abillity to share
 * [Features]Submittable Form With Response
 * [Design](#design)
 * [Project Next Steps]Add 
-* [Deployed App] Netlify
+* [Deployed App] 
 * [About the Author]Oma C. Withers
 
 ## <a name="technologiesused"></a>Technologies Used
 * JavaScript
 * HTML5
 * Ajax
+* Rapid API
 * jQuery
 
 
@@ -47,15 +48,19 @@ https://trello.com/invite/b/xzOZYV5B/c30e56ba903af50e9dc78f36af3c940c/web-design
 ## <a name="nextsteps"></a>Project Next Steps
 * users will be able to see trending inspirational videos and share them as well.
 * users will also be able to use this app on mobile devices. 
+* users will also enjoy the utlization of a modal pop-up.
+
 ## <a name="deployment"></a>Deployed Link
+Netlify:
 https://jovial-shortbread-833faf.netlify.app/
+
 
 * You can view the repository:
 [Github.com](https://github.com/Gr8ness21/joosPodcast)
 * If unable to view please go live locally through VS Code
     
 ## Works Cited:
-* N/A
+Stack Over
 
 
 ## <a name="author"></a>About The Author
