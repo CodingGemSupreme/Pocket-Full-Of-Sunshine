@@ -30,7 +30,7 @@ function ajaxpost () {
     var form = document.getElementById("myForm");
     var data = new FormData(form);
    
-    // (B) AJAX REQUEST
+   
     //This command will poste-mail input to server (though it currently isn't connected to one)
     fetch("index.html", { method:"POST", body:data })
     .then(res=>res.text())
@@ -43,7 +43,7 @@ function ajaxpost () {
       else { alert("Your Sunshine has been sent"); }
     })
    
-    // (B3) OPTIONAL - HANDLE FETCH ERROR
+    // HANDLE FETCH ERROR
     .catch((err) => { console.error(err); });
    
     // (C) PREVENT FORM SUBMIT
