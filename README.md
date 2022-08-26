@@ -51,7 +51,7 @@ https://trello.com/invite/b/xzOZYV5B/c30e56ba903af50e9dc78f36af3c940c/web-design
 * users will also be able to use this app on mobile devices. 
 * users will also enjoy the utlization of a modal pop-up.
 * Add affiliate links for counseling, coaching, and other resources that can assist the user if they're expericncing depression or thoughts of sucide. 
-* Have section specifically reserved for guided journaling.
+* Have section specifically reserved for form based guided journaling.
 
 ## <a name="deployment"></a>Deployed Link
 Netlify:
