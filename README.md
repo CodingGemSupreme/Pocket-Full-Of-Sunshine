@@ -1,4 +1,4 @@
-# Pocket-Full-Of-Sunshine
+# Sunshine In My Pocket 
 Motivational Website
 
 #### A feel good app for all!
