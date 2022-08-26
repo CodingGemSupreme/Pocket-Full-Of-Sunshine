@@ -40,7 +40,7 @@ function ajaxpost () {
     .then((response) => {
       console.log(response);
       if (response == "OK") { alert("SUCCESSFUL!"); }
-      else { alert("Your Sunshine has been sent"); }
+      else { alert("☀️Your Sunshine has been sent ☀️"); }
     })
    
     // HANDLE FETCH ERROR
