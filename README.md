@@ -1,8 +1,9 @@
 # Pocket-Full-Of-Sunshine
 Motivational Website
 
-#### A site built from top to bottom as my first website project.
-![Screen Shot 2022-08-25 at 3 10 03 PM](https://user-images.githubusercontent.com/77770242/186748819-9dadcd7d-f758-4518-9658-b4dbb216f738.png)
+#### A feel good app for all!
+![Untitled (11 × 6 in)](https://user-images.githubusercontent.com/77770242/186916392-f7290bbe-4351-4ed8-a1e8-708991c2b4b1.gif)
+
 
 
 ## Description
