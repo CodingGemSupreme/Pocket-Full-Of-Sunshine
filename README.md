@@ -64,7 +64,7 @@ https://jovial-shortbread-833faf.netlify.app/
 * If unable to view please go live locally through VS Code
     
 ## Works Cited:
-Stack Over
+Stack Overflow and MDN
 
 
 ## <a name="author"></a>About The Author
